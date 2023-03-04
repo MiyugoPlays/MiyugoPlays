@@ -12,3 +12,8 @@
 <a href="https://twitter.com/MiyugoPlays"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/miyugoplays/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  
+<h1 align=center>  🏮~ 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆 ~🏮  </h1>
+ <p> Hiya, my name is MiyugoPlays and i am looking for knowledge and improve my programming skills and above all have fun coding!  </p>
+ <p><b> FAQ </b> </p>
+ <li>What languages do you know? </l1>
+ <br> <b>R:</b> &nbsp; HTML, CSS, and some MySQL, PHP and JS
