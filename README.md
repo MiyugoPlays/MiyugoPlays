@@ -1,8 +1,14 @@
-<center>
+
+ 
 <h1 align=center>🏮~ 𝒘𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 ~🏮 <h1>
  
 [![Discord Presence](https://lanyard.kyrie25.me/api/280882418674565121?theme=dark&bg=000000&hideDiscrim=true)](https://discord.com/users/280882418674565121)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiyugoPlays&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyugoPlays&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
-  </center>
+ 
+<a href="https://www.youtube.com/channel/UCn1t1dGalUmb925rGuvk9Mg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.twitch.tv/miyugoplays"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+<a href="https://twitter.com/MiyugoPlays"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/miyugoplays/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ 
