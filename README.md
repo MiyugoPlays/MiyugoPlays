@@ -4,8 +4,8 @@
  
 [![Discord Presence](https://lanyard.kyrie25.me/api/280882418674565121?theme=dark&bg=000000&hideDiscrim=true)](https://discord.com/users/280882418674565121)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiyugoPlays&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyugoPlays&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiyugoPlays&count_private=true&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyugoPlays&count_private=true&layout=compact&theme=great-gatsby&text_color=FFFFFF&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
  
 <a href="https://www.youtube.com/channel/UCn1t1dGalUmb925rGuvk9Mg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.twitch.tv/miyugoplays"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
